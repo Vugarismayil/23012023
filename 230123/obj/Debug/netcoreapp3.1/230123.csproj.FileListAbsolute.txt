@@ -1,0 +1,14 @@
+C:\Users\ivuqa\source\repos\230123\230123\bin\Debug\netcoreapp3.1\230123.exe
+C:\Users\ivuqa\source\repos\230123\230123\bin\Debug\netcoreapp3.1\230123.deps.json
+C:\Users\ivuqa\source\repos\230123\230123\bin\Debug\netcoreapp3.1\230123.runtimeconfig.json
+C:\Users\ivuqa\source\repos\230123\230123\bin\Debug\netcoreapp3.1\230123.runtimeconfig.dev.json
+C:\Users\ivuqa\source\repos\230123\230123\bin\Debug\netcoreapp3.1\230123.dll
+C:\Users\ivuqa\source\repos\230123\230123\bin\Debug\netcoreapp3.1\230123.pdb
+C:\Users\ivuqa\source\repos\230123\230123\obj\Debug\netcoreapp3.1\230123.csproj.AssemblyReference.cache
+C:\Users\ivuqa\source\repos\230123\230123\obj\Debug\netcoreapp3.1\230123.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivuqa\source\repos\230123\230123\obj\Debug\netcoreapp3.1\230123.AssemblyInfoInputs.cache
+C:\Users\ivuqa\source\repos\230123\230123\obj\Debug\netcoreapp3.1\230123.AssemblyInfo.cs
+C:\Users\ivuqa\source\repos\230123\230123\obj\Debug\netcoreapp3.1\230123.csproj.CoreCompileInputs.cache
+C:\Users\ivuqa\source\repos\230123\230123\obj\Debug\netcoreapp3.1\230123.dll
+C:\Users\ivuqa\source\repos\230123\230123\obj\Debug\netcoreapp3.1\230123.pdb
+C:\Users\ivuqa\source\repos\230123\230123\obj\Debug\netcoreapp3.1\230123.genruntimeconfig.cache
